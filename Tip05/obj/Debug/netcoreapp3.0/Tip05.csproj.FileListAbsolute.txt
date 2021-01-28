@@ -1,0 +1,11 @@
+C:\Users\Javier Arias\source\repos\UpdateTips2019\Tip05\bin\Debug\netcoreapp3.0\Tip05.exe
+C:\Users\Javier Arias\source\repos\UpdateTips2019\Tip05\bin\Debug\netcoreapp3.0\Tip05.deps.json
+C:\Users\Javier Arias\source\repos\UpdateTips2019\Tip05\bin\Debug\netcoreapp3.0\Tip05.runtimeconfig.json
+C:\Users\Javier Arias\source\repos\UpdateTips2019\Tip05\bin\Debug\netcoreapp3.0\Tip05.runtimeconfig.dev.json
+C:\Users\Javier Arias\source\repos\UpdateTips2019\Tip05\bin\Debug\netcoreapp3.0\Tip05.dll
+C:\Users\Javier Arias\source\repos\UpdateTips2019\Tip05\bin\Debug\netcoreapp3.0\Tip05.pdb
+C:\Users\Javier Arias\source\repos\UpdateTips2019\Tip05\obj\Debug\netcoreapp3.0\Tip05.csprojAssemblyReference.cache
+C:\Users\Javier Arias\source\repos\UpdateTips2019\Tip05\obj\Debug\netcoreapp3.0\Tip05.AssemblyInfoInputs.cache
+C:\Users\Javier Arias\source\repos\UpdateTips2019\Tip05\obj\Debug\netcoreapp3.0\Tip05.AssemblyInfo.cs
+C:\Users\Javier Arias\source\repos\UpdateTips2019\Tip05\obj\Debug\netcoreapp3.0\Tip05.dll
+C:\Users\Javier Arias\source\repos\UpdateTips2019\Tip05\obj\Debug\netcoreapp3.0\Tip05.pdb
